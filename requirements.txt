@@ -1,0 +1,9 @@
+REQUIREMENTS
+1. Windows 10/11 with the Microsoft Store version of Angry Birds 2
+2. Either:
+   a) AB2-Save-Editor.exe (build it with build_exe.bat, or download it from the GitHub Actions build), or
+   b) Python 3.9+ (python.org, tick "Add Python to PATH") and:  pip install -r requirements.txt
+3. The XOR key - NOT included. Add it in the app (first screen) or put xor_key.bin (256 bytes) /
+   xor_key.hex (512 hex characters) next to the program.
+4. The game fully closed while you edit. Keep your own backups too.
+AB2E.py is no longer needed.

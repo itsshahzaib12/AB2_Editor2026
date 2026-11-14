@@ -1,0 +1,19 @@
+# NEVER commit these: account data, backups and the secret key
+xor_key.bin
+xor_key.hex
+index
+B4F59D3E*
+8DA4F614*
+9162F9A3*
+B2BD4480*
+decrypted_save.json
+baseline.json
+*.tmp
+old_json/
+old_encrypted/
+game_backups/
+conflict_backups/
+__pycache__/
+build/
+dist/
+*.spec
