@@ -3,7 +3,7 @@
 A guided, friendly editor for your **own, local** *Angry Birds 2* save on Windows (Microsoft Store version).
 Open it, follow five steps, done: **Check, Load, Edit, Review, Install**.
 
-Made by **Shahzaib**, with **Claude** (an AI assistant by Anthropic) as pair-programmer.
+Made by **Shahzaib**
 
 > ## Read this first
 > * **Use at your own risk.** Editing a save can break it and may break the game's Terms of Service. The game checks
