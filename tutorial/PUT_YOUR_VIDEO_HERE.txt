@@ -1,0 +1,2 @@
+Put your tutorial video in this folder and name it  tut  (tut.mp4 is best; tut.webm also works).
+The app shows it under "View tutorial". The build scripts copy this folder next to the finished app.
