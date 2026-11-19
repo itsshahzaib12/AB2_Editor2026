@@ -1,0 +1,32 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.tinytools.ab2editor'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.tinytools.ab2editor"
+        minSdk 23
+        targetSdk 29          // keeps the plain storage permission working on Android 10 and older
+        versionCode 1
+        versionName "1.0"
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    buildTypes {
+        release { minifyEnabled false }
+    }
+    lint { abortOnError false }
+}
+
+dependencies {
+    implementation 'androidx.documentfile:documentfile:1.0.1'
+    // Shizuku (Android 13+ without root). If these two lines will not build, delete them
+    // and delete ShizukuHelper.java plus the lines that mention ShizukuHelper in MainActivity.java.
+    implementation 'dev.rikka.shizuku:api:13.1.5'
+    implementation 'dev.rikka.shizuku:provider:13.1.5'
+}

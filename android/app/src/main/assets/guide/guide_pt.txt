@@ -1,0 +1,27 @@
+COMO USAR (cerca de 5 minutos)
+
+ANTES DE COMEÇAR
+• Feche o Angry Birds 2. Abra-o uma vez antes para que tenha um save. O jogo precisa de internet quando for aberto de novo.
+• Use por sua conta e risco: editar os dados do jogo pode afetar sua conta. O app faz um backup toda vez.
+
+PASSO 1 - ACESSAR O SAVE (botão "Check access")
+• Android 10 ou anterior: apenas permita o acesso ao armazenamento.
+• Android 11 ou 12: toque em "Pick folder", escolha Android > data > com.rovio.baba e depois "Use this folder".
+• Android 13 ou mais novo: você precisa de root ou do app gratuito Shizuku. Instale o Shizuku, inicie com Depuração sem fio (opções do desenvolvedor), toque em "Allow Shizuku" e depois em "Check access".
+
+PASSO 2 - SUA CHAVE
+Cole sua chave de 512 caracteres e toque em "Save key". Ela fica só neste celular.
+
+PASSO 3 - CARREGAR
+Toque em "Load my save". Você deve ver suas gemas e seu nível.
+
+PASSO 4 - EDITAR
+Digite os números que quiser (deixe vazio para manter). Limites: moedas até 999,999,999, nível do pássaro até 49, feitiços até 20. Toque em "Apply changes".
+
+PASSO 5 - INSTALAR
+Feche o jogo, toque em "Install to game" e abra o jogo.
+
+ALGO DEU ERRADO?
+Toque em "Restore a backup", escolha um e digite 222.
+
+(As traduções podem ter pequenos erros.)
