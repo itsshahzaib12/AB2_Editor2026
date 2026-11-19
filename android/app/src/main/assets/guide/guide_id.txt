@@ -1,0 +1,27 @@
+CARA PAKAI (sekitar 5 menit)
+
+SEBELUM MULAI
+• Tutup Angry Birds 2. Buka sekali sebelumnya supaya ada data simpanan. Game butuh internet saat dibuka lagi.
+• Gunakan dengan risiko sendiri: mengubah data game bisa memengaruhi akunmu. Aplikasi ini membuat cadangan setiap kali.
+
+LANGKAH 1 - AKSES DATA SIMPANAN (tombol "Check access")
+• Android 10 atau lebih lama: cukup izinkan akses penyimpanan.
+• Android 11 atau 12: ketuk "Pick folder", pilih Android > data > com.rovio.baba, lalu "Use this folder".
+• Android 13 atau lebih baru: perlu root atau aplikasi gratis Shizuku. Pasang Shizuku, jalankan lewat Debug nirkabel (opsi pengembang), ketuk "Allow Shizuku", lalu "Check access".
+
+LANGKAH 2 - KUNCI KAMU
+Tempel kunci 512 karakter dan ketuk "Save key". Kunci hanya tersimpan di ponsel ini.
+
+LANGKAH 3 - MUAT
+Ketuk "Load my save". Kamu akan melihat gem dan level.
+
+LANGKAH 4 - UBAH
+Ketik angka yang kamu mau (kosongkan untuk tidak mengubah). Batas: mata uang sampai 999,999,999, level burung sampai 49, mantra sampai 20. Ketuk "Apply changes".
+
+LANGKAH 5 - PASANG
+Tutup game, ketuk "Install to game", lalu buka game.
+
+ADA MASALAH?
+Ketuk "Restore a backup", pilih satu dan ketik 222.
+
+(Terjemahan mungkin ada kesalahan kecil.)
